@@ -1,0 +1,6 @@
+﻿  practica4.cpp
+C:\Users\lipsh\source\repos\Practica4_16042_zap363\practica4.cpp(58,8): warning C4473: 'scanf' : not enough arguments passed for format string
+C:\Users\lipsh\source\repos\Practica4_16042_zap363\practica4.cpp(58,8): message : placeholders and their parameters expect 1 variadic arguments, but 0 were provided
+C:\Users\lipsh\source\repos\Practica4_16042_zap363\practica4.cpp(58,8): message : the missing variadic argument 1 is required by format string '%d'
+C:\Users\lipsh\source\repos\Practica4_16042_zap363\practica4.cpp(53,6): warning C4101: 'enterof': unreferenced local variable
+  Practica5_16042_zap363.vcxproj -> C:\Users\lipsh\source\repos\Practica4_16042_zap363\Debug\Practica5_16042_zap363.exe
